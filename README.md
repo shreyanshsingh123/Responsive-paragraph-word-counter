@@ -1,1 +1,1 @@
-# Responsive-paragraph-word-counter
+# word-counter-app
